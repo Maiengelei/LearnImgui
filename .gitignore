@@ -1,0 +1,7 @@
+# IDE Config
+.idea
+.vs
+.vscode
+
+# CMake Build
+cmake-build-*
